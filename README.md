@@ -2,8 +2,6 @@
 
 A playful parody website that "tracks" the journey of a poem intended for Elon Musk, styled after flight trackers but for poetry delivery status. Built with HTML, CSS, and minimal JavaScript.
 
-![Poetry Tracking Initiative](https://api.placeholder.com/300/200)
-
 ## Overview
 
 This project creates a sophisticated dark-mode dashboard that monitors the fictional journey of a space-themed poem through SpaceX's communication channels. It's a creative blend of space industry aesthetics and literary ambitions, featuring:
